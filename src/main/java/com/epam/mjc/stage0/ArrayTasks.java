@@ -31,7 +31,7 @@ public class ArrayTasks {
         int counter = 1;
 
         while(counter <= length){
-            array[counter] += counter;
+            array[counter] = counter;
             counter++;
         }
         return array;
