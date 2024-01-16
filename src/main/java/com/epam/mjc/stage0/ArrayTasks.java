@@ -1,6 +1,5 @@
 package com.epam.mjc.stage0;
 
-import java.util.Arrays;
 
 /**
  * Here are the tasks for working with the arrays.
@@ -8,6 +7,7 @@ import java.util.Arrays;
  * The usage of any additional packages (such as java.util.*) is forbidden.
  */
 public class ArrayTasks {
+
 
     /**
      * Return a String[] array that will list all the seasons of the year, starting with winter.
@@ -96,7 +96,7 @@ public class ArrayTasks {
     /**
      * Return new int[] array obtained from arr int[] array
      * by choosing positive numbers only.
-     * P.S. 0 is not a positive number =)
+     * P.S. 0 is not a positive number =
      * <p>
      * Example:
      * <p>
